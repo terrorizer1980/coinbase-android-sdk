@@ -14,7 +14,7 @@
     <version>1.0.2-SNAPSHOT</version>
 
     <name>Coinbase Android SDK</name>
-    <description></description>
+    <description/>
     <url>https://github.com/coinbase/coinbase-android-sdk</url>
     <inceptionYear>2014</inceptionYear>
 
@@ -66,7 +66,7 @@
         <dependency>
             <groupId>com.coinbase.api</groupId>
             <artifactId>coinbase-java</artifactId>
-            <version>1.9.1</version>
+            <version>1.10.0</version>
         </dependency>
 
 	<dependency>
